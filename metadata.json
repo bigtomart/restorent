@@ -1,0 +1,6 @@
+{
+  "name": "Parosa Partner",
+  "description": "Simple and clean restaurant partner dashboard with real-time orders, menu management, earnings, and store controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
